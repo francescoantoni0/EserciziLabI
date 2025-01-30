@@ -2,7 +2,7 @@ function replace_filter_f(f, g){
     function fun(A){
         let B = []
         for (let a of A){
-            b.push(f(A))
+            B.push(f(A))
         }
         let C = []
         for (let k of B){
